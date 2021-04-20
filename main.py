@@ -1,9 +1,3 @@
-"""
-Hi guys, For this video today, we are implement a guessing game where the computer has a secret number and
-we are trying to guess that secret number.
-First
-We need to have the computer generate a random number for us to guess.
-"""
 # import random number - a package that comes with python and makes it avalible in our script
 import random
 
